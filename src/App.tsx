@@ -4,7 +4,7 @@ function App() {
   const teammates = [
     'Jose Pablo López',
     'Jesús Gutiérrez Casique',
-    'Alexia García',
+    'Alexia López García',
     'Paulina Méndez'
   ]
 
